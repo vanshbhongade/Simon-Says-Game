@@ -1,2 +1,2 @@
 # new project
-This project was created from lacal system
+This project was created from local system
